@@ -1,5 +1,5 @@
-name: Transcription correction
-description: Report a transcription error
+name: Proposition de modification
+description: Corriger une erreur / suggérer une modification dans un document
 title: "[MODIF] Nature de la modification"
 labels: ["transcription"]
 
