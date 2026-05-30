@@ -4,19 +4,41 @@
 
 ## Mise en forme
 
+### Ordre des lettres
+
+- Les lettres seront regroupés par envois (une même enveloppe, un même colis).
+
+### Géométrie du texte
+
 - Un compromis sera fait entre la mise en forme d'origine et la mise en forme transcrite. En particulier, le format des lettres sera gardé constant et contraint. Les différents morceaux de texte devront constituer un des cas de figure suivants, et la mise en page sera automatique.
     - Entête de gauche (Ex : Samedi 4 Septembre 1954.)
     - Entête de droite (Ex : Chambéry.)
     - Salutation (Ex : Mon cher Jean-Marie,)
     - Corps de lettre
     - Formule de politesse (Ex : Bonsoir à demain.)
-    - Signatue (Ex : Marie Madeleine)
+    - Signature (Ex : Marie Madeleine)
 
 - Les nouveaux paragraphes seront formatés avec alinéas, et seront introduits à chaque fois qu'un blanc est laissé à la fin d'une ligne dans le document original. La taille de l'alinéa ne sera pas ajustée à celle du texte original.
 
-- Les fautes d'orthographe et de grammaires seront corrigées dans la mesure du possible. Pour les cas limites, ou bien dans les cas de convention multiples, on essaiera d'être le plus fidèle au texte original possible.
-- Les ratures seront retirées.
 - La géométrie des blocs de texte (insertion inter-lignes, écriture de biais, mélange de lignes horizontales/verticales, ...) ne sera pas conservée.
-- Les majuscules aux mois de l'année et jours de la semaine seront conservées, et parfois peut-être introduites pour plus d'uniformité.
-- La géométrie du format des chiffres, heures et dates sera respectée le plus possible.
+
 - Les morceaux mis en valeur (soulignés, etc) seront aussi mis en valeur de manière correspondante, sans pour autant changer la taille de la police de caractères.
+
+### Transcription des mots ou lettres
+
+- Les majuscules aux mois de l'année et jours de la semaine seront conservées, et parfois peut-être introduites pour plus d'uniformité.
+
+- La géométrie du format des chiffres, heures et dates sera respectée le plus possible.
+
+### Correction des "erreurs".
+
+- On gardera en tête que le plus important est de trouver un compromis entre la transmission de l'intention des auteurs (Marie Madeleine et Jean Marie) dans la mesure où l'on peut prétendre la connaitre, et l'aisance de lecture du résultat final.
+
+- Les fautes d'orthographe et de grammaires seront corrigées dans la mesure du possible. Pour les cas limites, ou bien dans les cas de convention multiples, on essaiera d'être le plus fidèle au texte original possible.
+
+- Les ratures seront retirées.
+
+# Reste à décider
+
+- Tiret dans les noms composés:
+    - Faut il écrire "Marie Madeleine" ou "Marie-Madeleine" ? Idem pour Jean Marie.
