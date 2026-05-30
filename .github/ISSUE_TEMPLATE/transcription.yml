@@ -1,0 +1,59 @@
+name: Transcription correction
+description: Report a transcription error
+title: "[MODIF] Nature de la modification"
+labels: ["transcription"]
+
+body:
+
+  - type: textarea
+    id: modif_location
+    attributes:
+      label: Où se trouve la modification souhaitée ?
+      description: Position précise dans le document original. A MINIMA référence de la page photographiée.
+      placeholder: "Ex: Lettre du mercredi 01 septembre 1954 de J-M à M-M — page 4, début du second paragraphe"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: modif_nature
+    attributes:
+      label: Description des modifications souhaitées.
+      description: Décrire les modifications souhaitées de la manière la plus compréhensible possible.
+      placeholder: " Ex : Je lis \"Mais revenons aux choses serieuses.\" \n
+        Je pense que je devrais lire \"Mais revenons aux choses sérieuses.\" \n
+        Justification : Il manque un accent à \"sérieuses\""
+    validations:
+      required: true      
+
+  - type: textarea
+    id: modif_other
+    attributes:
+      label: Informations supplémentaires 
+      description: Inclure plus de contexte ici si la modification souhaitée est difficile à expliquer/comprendre (Capture d'écran, ressource orthographique utile, ...)
+      placeholder: "Informations supplémentaires"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: license_file
+    attributes:
+      label: License
+      options:
+        - label: Je comprends que cette discussion est publique et libre de droit. Confer le [fichier de license](blob/main/LICENSE).
+          required: true
+
+  - type: checkboxes
+    id: transcription_rules
+    attributes:
+      label: Règles de transcription
+      options:
+        - label: J'ai pris connaissance des [règles de transcription](blob/main/TRANSCRIPTION_RULES.md)
+          required: true
+
+  - type: checkboxes
+    id: default_title_change
+    attributes:
+      label: Titre par défaut 
+      options:
+        - label: J'ai modifié le titre par défaut en haut de cette page.
+          required: true

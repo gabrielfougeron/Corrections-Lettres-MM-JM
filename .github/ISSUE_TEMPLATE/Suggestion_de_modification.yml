@@ -1,0 +1,12 @@
+name: Proposition de modification de transcription
+description: Proposer une correction de transcription dans un document.
+title: "[MODIF] Nature de la modification"
+
+body:
+  - type: textarea
+    id: report
+    attributes:
+      label: Describe the issue
+      description: What should be corrected?
+    validations:
+      required: true
