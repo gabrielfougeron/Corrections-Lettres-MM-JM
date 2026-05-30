@@ -7,6 +7,11 @@
 ### Ordre des lettres
 
 - Les lettres seront regroupés par envois (une même enveloppe, un même colis).
+- A chaque lettre est associée trois dates estimées. Par ordre chronologique croissant:
+    - Date du début d'écriture de la lettre
+    - Date de mise en pli
+    - Date de réception du pli
+- L'ordre des lettre dans le document doit respecter la contrainte suivante : Une lettre reçue avant la mise en pli d'une autre doit figurer avant dans le document. Cela permet de respecter la chronologie et la causalité des événements.
 
 ### Géométrie du texte
 
@@ -42,3 +47,8 @@
 
 - Tiret dans les noms composés:
     - Faut il écrire "Marie Madeleine" ou "Marie-Madeleine" ? Idem pour Jean Marie.
+- Nommage automatique des chapitres.
+    - Un choix temporaire a été fait, mais ce n'est pas nécéssairement le meilleur.
+    - Nous avons à notre disposition [les trois dates mentionnées plus haut](#markdown-header-ordre-des-lettres).
+- Label automatique de chaque image.
+    - Idem
