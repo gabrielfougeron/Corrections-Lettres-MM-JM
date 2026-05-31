@@ -1,8 +1,8 @@
 name: Proposition de modification
 description: Corriger une erreur / suggérer une modification dans un document
 title: "[MODIF] Nature de la modification"
-labels: ["transcription"]
-
+labels: ["Suggestion de modification"]
+assignees: ["gabrielfougeron"]
 body:
 
   - type: textarea
