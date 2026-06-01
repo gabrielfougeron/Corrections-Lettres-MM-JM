@@ -13,4 +13,5 @@ Nécéssaires ? Utiles ? Shouhaitables ?
 
 Ex : 
 
+    - [ ] Ecole ménagère rurale de la Beuvrière (Anger)
     - [ ] Mme Millet Robinet
