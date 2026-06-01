@@ -11,6 +11,8 @@
 
 Nécéssaires ? Utiles ? Shouhaitables ?
 
+==> Utiliser \contextnote pour les ajouter de manière optionelle 
+
 Ex : 
 
     - [ ] Ecole ménagère rurale de la Beuvrière (Anger)
