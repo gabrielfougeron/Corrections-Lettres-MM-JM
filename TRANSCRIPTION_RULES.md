@@ -29,13 +29,14 @@
 
 - Les morceaux mis en valeur (soulignés, etc) seront aussi mis en valeur de manière correspondante, sans pour autant changer la taille de la police de caractères.
 
-### Transcription des mots ou lettres
+## Transcription des mots ou lettres
 
-- Les majuscules aux mois de l'année et jours de la semaine seront conservées, et parfois peut-être introduites pour plus d'uniformité.
+- MM et JM utilisent très souvent des majuscules pour les jours de la semaine et des mois. Ex : Lundi 10 Janvier.
+C'est pourquoi il a été décidé d'utiliser des lettres majuscules systématiquement dans le document.
 
-- La géométrie du format des chiffres, heures et dates sera respectée le plus possible.
+- La géométrie du format des chiffres, heures et dates sera respectée le plus possible, en particulier la ponctuation, l'exposition et le soulignement.
 
-### Correction des "erreurs".
+## Correction des "erreurs".
 
 - On gardera en tête que le plus important est de trouver un compromis entre la transmission de l'intention des auteurs (Marie Madeleine et Jean Marie) dans la mesure où l'on peut prétendre la connaitre, et l'aisance de lecture du résultat final.
 
