@@ -53,3 +53,4 @@ C'est pourquoi il a été décidé d'utiliser des lettres majuscules systématiq
     - Nous avons à notre disposition [les trois dates mentionnées plus haut](#markdown-header-ordre-des-lettres).
 - Label automatique de chaque image.
     - Idem
+- Diner ou dîner ? 
